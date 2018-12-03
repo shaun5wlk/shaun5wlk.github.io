@@ -7,7 +7,6 @@ header-style: text
 tags:
   - Representation Learning
   - Deep Learning
-  
 ---
 >Information Bottleneck is a good measure to evaluate the represenation extarcted by machine leaning algorithms in supervised tasks,which is proposed by Tishby in 1999.
 
