@@ -1,6 +1,6 @@
 ---
-layout:post
-title:"How do we understand Information Bottleneck?"
+layout: post
+title: "How do we understand Information Bottleneck?"
 subtitle: 'A good measure to evaluate your network'
 author: "Zpl"
 header-style: text
