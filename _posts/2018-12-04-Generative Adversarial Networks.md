@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Generative Adversarial Networks"
-subtitle: 'continuously updated with recent GAN papers'
-author: "Zpl"
-header-style: text
+layout:  post
+title:  "Generative Adversarial Networks"
+subtitle:  'continuously updated with recent GAN papers'
+author:  "Zpl"
+header-style:  text
 tags:
-  - GAN
+  -GAN
   -Deep Learning
 ---
 
