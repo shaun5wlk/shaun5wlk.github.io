@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: plzhai@amss.ac.cn
 description: "About DataScience,Statistics | 翟鹏龙 | 这里是 @Zpl 翟鹏龙 的个人博客，与你一起发现更大的世界。"
 keyword: "翟鹏龙, Zpl, Zpl Blog, deep Learning, representation learning, @Zpl, 翟鹏龙的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://plzhai.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
