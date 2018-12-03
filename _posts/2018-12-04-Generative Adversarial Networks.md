@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Generative Adversarial Networks"
-subtitle:  'continuously updated with recent GAN papers'
+subtitle:  'continuously updated with recent GAN ideas'
 author:  "Zpl"
 header-style:  text
 tags:
@@ -9,4 +9,4 @@ tags:
   - Deep Learning
 ---
 
->I will update this article continuously with recent publised papers.
+>I will update this article continuously with recent publised ideas.
