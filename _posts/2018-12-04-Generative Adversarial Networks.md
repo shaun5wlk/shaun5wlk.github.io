@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Generative Adbersarial Networks
-data:2018-12-04
-auther: Zpl
+title: "Generative Adversarial Networks"
+subtitle: 'continuously updated with recent GAN papers'
+author: "Zpl"
+header-style: text
+tags:
+  - GAN
+  -Deep Learning
 ---
