@@ -1,9 +1,9 @@
 ---
-layout:  post
-title:  "Generative Adversarial Networks"
-subtitle:  'continuously updated with recent GAN ideas'
-author:  "Zpl"
-header-style:  text
+layout:    post
+title:    "Generative Adversarial Networks"
+subtitle:    'continuously updated with recent GAN ideas'
+author:    "Zpl"
+header-img:   "img/post-bg-GAN.jpg"
 tags:
   - GAN
   - Deep Learning
