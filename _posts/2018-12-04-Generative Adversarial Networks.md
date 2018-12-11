@@ -7,7 +7,6 @@ header-style:  text
 tags:
   - GAN
   - Deep Learning
-  - 
 ---
 
 >I will update this article continuously with recent published ideas.
