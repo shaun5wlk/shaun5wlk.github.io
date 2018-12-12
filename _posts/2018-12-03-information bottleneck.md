@@ -15,6 +15,4 @@ Information Bottleneck is a good measure to evaluate the represenation extarcted
 eliminate the redundant information in the same time.The idea can be writen as in the following:
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{100}&space;I(X,T)&plus;\beta&space;I(T,Y)" title="I(X,T)+\beta I(T,Y)" />
 where MI is mutual information of the variables and $\beta$ is the tradeoff parameter used to balance of the information saved by representation T.
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;MI(X,T)&plus;\beta&space;MI(T,Y)" title="MI(X,T)+\beta MI(T,Y)" />
 
-<img src="https://latex.codecogs.com/gif.latex?MI(X,T)&plus;\beta&space;MI(T,Y)" title="MI(X,T)+\beta MI(T,Y)" />
