@@ -39,7 +39,7 @@ The difference between W-GAN and ordinary GAN lies in the loss function,or the d
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?W(p,q)=max_{T,\left&space;\|T&space;\right&space;\|\leqslant&space;1}[E_{p}{T}-E_{q}{T}]" title="W(p,q)=max_{T,\left \|T \right \|\leqslant 1}[E_{p}{T}-E_{q}{T}]" />
+<img src="https://latex.codecogs.com/gif.latex?W(p,q)=max_{T,\left&space;\|T&space;\right&space;\|\leqslant&space;1}[E_{p}{T}-E_{q}{T}]">
 
 
 If we want to construct a new framework for GAN,we need to specify 3 steps:
