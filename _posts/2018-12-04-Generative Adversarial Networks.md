@@ -29,5 +29,24 @@ Note:sometimes we are more apt to call **distance** of distribution as **diverge
 **Reference**
 
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
-> In chapter 2,I will give a introduction to study about Wasserstein GAN,including the initial idea and other subsequent studies.
+
+
 #### Chapter 2.Wasserstein GAN.
+
+> In chapter 2, I will give a introduction to study about Wasserstein GAN,including the initial idea and other subsequent studies.
+
+The difference between W-GAN and ordinary GAN lies in the loss function,or the divergence of distributions.The divergence adopted in W-GAN is **wasserstein distance** as the following,
+
+
+
+<img src="https://latex.codecogs.com/gif.latex?W(p,q)=max_{T,\left&space;\|T&space;\right&space;\|\leqslant&space;1}[E_{p}{T}-E_{q}{T}]" title="W(p,q)=max_{T,\left \|T \right \|\leqslant 1}[E_{p}{T}-E_{q}{T}]" />
+
+
+If we want to construct a new framework for GAN,we need to specify 3 steps:
+
+1. find a well suited divergence between distributions.
+2. find the dual representation the divergence match.
+3. transform it to be a min-max game,i.e.,specify the loss of generator and discriminator. 
+
+
+
