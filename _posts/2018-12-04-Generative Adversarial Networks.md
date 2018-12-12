@@ -49,4 +49,4 @@ If we want to construct a new framework for GAN,we need to specify 3 steps:
 3. transform it to be a min-max game,i.e.,specify the loss of generator and discriminator. 
 
 
-$sum_{i=0}^n i^2 = frac{(n^2+n)(2n+1)}{6}$
+$$sum_{i=0}^n i^2 = frac{(n^2+n)(2n+1)}{6}$$
