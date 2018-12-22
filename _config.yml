@@ -1,11 +1,11 @@
 # Site settings
-title: Zpl Blog
-SEOTitle: 翟鹏龙 | Zpl Blog
+title: dol re mi dol
+SEOTitle: 张瑞珈 | Zrj Blog
 header-img: img/home-bg.jpg
-email: plzhai@amss.ac.cn
-description: "About Discovery | 这里是 @Zpl 翟鹏龙 的个人博客，与你一起发现更大的世界。"
-keyword: "翟鹏龙, Zpl, Zpl Blog, deep Learning, representation learning, @Zpl, 翟鹏龙的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://plzhai.github.io"              # your host, for absolute URL
+email: 545900054@qq.com
+description: "About Discovery | 这里是 @Zrj 张瑞珈 的个人博客，与你一起发现更大的世界。"
+keyword: "张瑞珈, Zrj, Zrj Blog, deep Learning, representation learning, @Zpl, 张瑞珈的博客,博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://shaun5wlk.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     工程师墨翟
+weibo_username:     胡桃珈
 #zhihu_username:     
-github_username:    plzhai
+github_username:    shaun5wlk
 #twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "生活 读书 新知"
+sidebar-about-description: "诗歌，王位，太阳"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -106,8 +106,8 @@ friends: [
     #     title: "科学空间",
     #     href: "http://su.gallery/"
     # },{
-        title: "科学空间",
-        href: "https://kexue.fm/"
+        title: "翟鹏龙的个人网页",
+        href: "plzhai.giyhub.io/"
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
